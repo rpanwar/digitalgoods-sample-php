@@ -19,9 +19,9 @@ class SellerInfo {
   /**
   * @var string merchant Id
   */
-  public static $issuerId = "Merchant_Account_Id";
+  public static $issuerId = "Merchant_Id";
   /**
   * @var string merchant secret key
   */
-   public static $secretKey = "Merchant_Account_Secret_Key";
+   public static $secretKey = "Merchant_Secret_Key";
 }
