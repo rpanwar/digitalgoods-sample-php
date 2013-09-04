@@ -14,7 +14,7 @@ To setup the sample, edit seller_info.php.
   [Sign up for Wallet for digital goods (sandbox)](https://sandbox.google.com/checkout/inapp/merchant/signup.html)
 
   [Sign up for Wallet for digital goods (production)](https://checkout.google.com/inapp/merchant/signup.html)
-* Replace $issuerId and $secretKey in seller_info.php with your Seller Identifier and Seller Secret.
+* Replace Merchant_Account_Id and Merchant_Account_Secret_Key in seller_info.php with your Seller Identifier and Seller Secret.
 
 ### Google appengine.
 
